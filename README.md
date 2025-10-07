@@ -42,7 +42,7 @@ Extensions: C/C++ by Microsoft, Code Runner (optional)
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/chandu5t/Artificial Intelligence.git
+    git clone https://github.com/chandu5t/Artificial-Intelligence.git
 
 2. Open the folder in Visual Studio Code.
 
